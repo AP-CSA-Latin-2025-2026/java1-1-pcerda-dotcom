@@ -6,8 +6,8 @@ Go to the indentifyErrors file,
 1) Open up the file IdentifyErrors
 2) FIX the look of the file with command + shift + f (mac) [Shift + Alt + F  should work on windows]
 3) Run the code an Identify the 4 indentifyErrors and type them below [found in each try-catch]
-  A)
-  B)
-  C)
-  D)
+  A) This is a Runtime error. The "hello" and "world" are seprate staements which may have been not the intention andis less effcient. 
+  B) This is a logic error. To make the star make the bottom line of stars 4, the second line 2 stars with a space on each side, and the line of stars a single star in the center.
+  C) The 5/0 is a airthematic, the math is incorrect. 
+  D) The custom error should be reomved, I would says this is a logic/custom error?
 4)Save and sync changes with github to turn in! 
